@@ -1,0 +1,9 @@
+LICENSE.zip
+ev0Bot.zip
+log.txt
+report.js
+temp/*
+log/*
+!log/.gitkeep
+node_modules/*
+config.json

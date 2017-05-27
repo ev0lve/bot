@@ -1,0 +1,15 @@
+{
+    "mysql": {
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": ""
+    },
+    "reportkey":"somethingrandom",
+    "botkey":"somethingrandom",
+    "scripturl":"https://urltothecurrentscript",
+    "scriptdir":"/path/to/script/cache",
+    "admins": [
+        "telegramusernameallowedtoprivatemessagethebot"
+    ]
+}
