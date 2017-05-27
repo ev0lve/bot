@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aequabit/ev0Bot.git"
+    "url": "git+https://github.com/ev0lve/bot.git"
   },
   "author": "aequabit",
-  "license": "UNLICENSED",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/aequabit/ev0Bot/issues"
+    "url": "https://github.com/ev0lve/bot/issues"
   },
-  "homepage": "https://github.com/aequabit/ev0Bot#readme"
+  "homepage": "https://github.com/ev0lve/bot#readme"
 }
